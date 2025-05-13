@@ -89,8 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact
 
 - **Author**: [Pedro Giácomo]
-- **GitHub**: [https://github.com/MaloneFreak]
-- **Email**: [malonefreak@yandex.ru]
+- **CoAuthor** [Gabriel Caetano]
 
 ---
 
